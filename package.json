@@ -63,7 +63,7 @@
     "karma-chrome-launcher": "^2.2.0",
     "karma-jasmine": "^2.0.1",
     "karma-jasmine-jquery": "^0.1.1",
-    "knockout": "~3.4.2",
+    "knockout": "~3.5.1",
     "lodash": "~4.17.11",
     "sinon": "^7.1.1",
     "sinon-chrome": "^1.2.0"

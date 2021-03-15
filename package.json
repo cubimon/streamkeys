@@ -33,7 +33,7 @@
     "package-zip": "grunt package-zip"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.4",
     "es6-promise": "^4.2.8",
     "eslint": "^7.12.1",
     "eslint-plugin-jasmine": "^4.1.1",
